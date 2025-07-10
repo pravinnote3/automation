@@ -1,0 +1,17 @@
+{
+  "platform": "android",
+  "android_app_package": "com.lowes.android",
+  "android_app_activity": "com.lowes.android.controller.util.OnboardingActivity",
+  "avd_launch_timeout": 180000,
+  "android_device_name": "2C161FDH2005QW",
+  "android_udid": "2C161FDH2005QW",
+  "android_system_port": 7878,
+  "android_chromedriver_port": 8787,
+  "android_emulator": "no",
+  "ios_device_name": "",
+  "ios_udid": "",
+  "ios_bundle_id": "",
+  "ios_webkit_debug_proxy_port": "",
+  "ios_wda_local_port": "",
+  "appium_url": "http://127.0.0.1:4723"
+}
